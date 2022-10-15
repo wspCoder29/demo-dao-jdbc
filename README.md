@@ -1,3 +1,3 @@
 # demo-dao-jdbc
 
-Estudos em Java - DAO com JDBC
+Estudos básicos em Java - Acessando dados com JDBC
